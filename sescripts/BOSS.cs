@@ -28,8 +28,6 @@ namespace sescripts
             IMyRadioAntenna antenna = blocks[0] as IMyRadioAntenna;
 
             antenna.SetCustomName("Hello Galaxy!");
-            
-            
         }
     }
 }
